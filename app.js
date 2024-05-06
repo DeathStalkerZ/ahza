@@ -1,8 +1,4 @@
-/*
-    1. buat endpoint untuk update
-    2. buat endpoint untuk delete
-    3. modifikasi endpoint create, ketika berhasil tampilkan data yang di insert
-*/
+
 import express from 'express';
 import * as UserService from './services/user.js';
 
