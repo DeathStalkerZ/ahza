@@ -51,7 +51,7 @@ Melanggar rules bot akan keluar
 
 	if (msg.body === "Test" || msg.body === "test" || msg.body === "Hi" || msg.body === "Hallo") {
       client.sendText(msg.from, `
-		*SELAMAT DATANG DI BOT AHZA ^_^* 
+		*SELAMAT DATANG DI BOT AHZA* 
 
 _Hai kawan, sebelum memakai bot ini patuhi rules dulu ya ._
 Ketikan *!rules* untuk melihat rules memakai bot ini, dan *!menu* untuk melihat menu bot ini`);
